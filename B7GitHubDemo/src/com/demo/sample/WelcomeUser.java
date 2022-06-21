@@ -9,8 +9,8 @@ public class WelcomeUser {
 		System.out.println("Welcome to Github Demo");
 		
 		
-		// Code added by Pranav
-		System.out.println("Thank you);
+		// Code added by Pranav - issue fixed - added ;
+		System.out.println("Thank you");
 	
 	}
 
