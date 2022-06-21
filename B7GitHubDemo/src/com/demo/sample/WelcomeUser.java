@@ -7,6 +7,10 @@ public class WelcomeUser {
 		
 		// Code added by Vinoth
 		System.out.println("Welcome to Github Demo");
+		
+		
+		// Code added by Pranav
+		System.out.println("Thank you);
 	
 	}
 
